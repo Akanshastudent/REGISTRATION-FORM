@@ -1,0 +1,97 @@
+.main{
+    height: 420px;
+    width: 360px;
+    margin: auto;
+    
+    background-color: rgb(185, 117, 27);
+    border-radius: 10px;
+    box-shadow: 10px 2px 3px 4px rgba(20, 20, 20, 0.4);
+    
+   
+
+}
+.head{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 900;
+    margin-top: 60px;
+    margin-left: 80px;
+
+    color:rgb(54, 36, 36);
+    text-decoration: underline;
+    
+    
+    
+    width: 200px;
+    
+    height: fit-content;
+
+    
+
+    
+    
+}
+.row1{
+    align-items: center;
+    margin-left: px;
+    margin-top: 30px;
+    color: rgb(10, 10, 1);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    background-color: rgb(185, 189, 146);
+.name{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    width: 70%;
+    margin-left: 16px;
+    background-color: rgb(231, 221, 208);
+}
+}
+.row2{
+    margin-left: px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(192, 183, 102);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.name2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:15px;
+    height: 25px;
+    width: 80%;
+    background-color: rgb(231, 221, 208);}
+.row3{
+    
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(184, 144, 96);
+}
+.name3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    margin-left: 10px;
+    width: 90%;
+    background-color: rgb(226, 217, 205);}
+.sub{
+    margin-top:30px;
+    margin-left: 20px;
+    width: 320px;
+    height: 30px;
+    font-size: 20px;
+    font-style: bold;
+    background-color: rgb(209, 189, 152);
+    box-shadow: 2px 8px 8px  rgb(29, 11, 11);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+}
+.sub:hover{
+    background-color: rgb(245, 201, 79);
+}
